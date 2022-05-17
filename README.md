@@ -5,9 +5,9 @@
 * Physics
 * Textures
 * Unity Particle System
-* Audio Sources and Listner
+* Audio Sources and Listener
 * Rigid Body
-* Coliiders
+* Colliders
 * Character Controller
 * Kinematics
 * Game Manager
